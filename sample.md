@@ -1,4 +1,4 @@
-# Ingestion Test Markdown
+# Sample Markdown Document
 
 This is a **markdown file** that should be converted to RTE HTML — _not_ wrapped in a CodeBlock.
 
