@@ -1,4 +1,4 @@
-"""Utility functions for common operations."""
+"""Utility functions for common text and data operations."""
 
 import hashlib
 import re
