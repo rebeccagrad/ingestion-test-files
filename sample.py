@@ -1,4 +1,4 @@
-"""Sample Python module for ingestion testing."""
+"""Sample Python module for data processing."""
 
 class DataProcessor:
     def __init__(self, source: str):
