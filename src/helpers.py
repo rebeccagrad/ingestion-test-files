@@ -1,4 +1,4 @@
-"""Helper functions in the src directory for root directory filtering test."""
+"""Helper functions for common operations."""
 
 
 def format_id(owner: str, repo: str, branch: str, path: str) -> str:

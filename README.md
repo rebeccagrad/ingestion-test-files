@@ -1,4 +1,4 @@
-# Ingestion Test Repository
+# Ingestion Test Files
 
 This repository contains sample files for testing content ingestion from GitHub.
 
