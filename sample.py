@@ -1,4 +1,4 @@
-"""Sample Python module for data processing."""
+"""Sample Python module for data processing. Updated for regression test 2026-02-26."""
 
 class DataProcessor:
     def __init__(self, source: str):
