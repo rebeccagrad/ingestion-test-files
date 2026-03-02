@@ -18,4 +18,4 @@ System.out.println("This is inline code in markdown");
 > This blockquote should be converted to proper RTE markup.
 
 ---
-_Test commit for ingestion recovery retest - 2026-03-02_
+_Test commit for ingestion recovery retest - 2026-03-02 (post-failure recovery)_
