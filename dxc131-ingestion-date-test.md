@@ -6,5 +6,9 @@ This is a new test file created to verify the Latest Ingestion Date field on Git
 
 Testing that the Latest Ingestion Date field auto-populates on the Ingestion tab when a GitHub ingestion runs.
 
+## Update
+
+Second version — verifying Latest Ingestion Date updates while Ingestion Date stays the same.
+
 ---
-_Created for DXC-131 QA - 2026-03-02 — initial version_
+_Updated for DXC-131 QA - 2026-03-02 — second version_
