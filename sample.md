@@ -18,4 +18,4 @@ System.out.println("This is inline code in markdown");
 > This blockquote should be converted to proper RTE markup.
 
 ---
-_Updated for DXC-131 QA retest - 2026-03-02 — verifying Latest Ingestion Date field_
+_Updated for DXC-131 QA retest - 2026-03-02 — second push, verifying Latest Ingestion Date_
