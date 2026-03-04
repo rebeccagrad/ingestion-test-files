@@ -6,9 +6,9 @@ This file is used to verify that GitHub ingestion updates an existing draft arti
 
 - Created: 2026-03-04
 - Purpose: Bug 2 regression test — draft update in place
-- Status: **Updated version — v3**
+- Status: **Updated version — v4**
 
 ## Updated Content
 
-Third update — testing plain draft (non-workflow) update behavior.
+Fourth update — verifying the existing draft article is updated in place on re-ingestion.
 
