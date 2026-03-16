@@ -25,3 +25,7 @@ This guide covers the basic setup process.
 ## Troubleshooting
 
 > If you encounter connection errors, verify that the API endpoint is reachable and your credentials are valid.
+
+## Notes
+
+Updated to verify Topic in-place update behavior (DXC-166 QA test).
