@@ -11,3 +11,7 @@ This repository contains sample files for testing content ingestion from GitHub.
 
 - `.md` — Markdown files (should be converted to rich text)
 - `.py` — Python files (should be ingested as code blocks)
+
+## Notes
+
+Updated to verify Playbook in-place update behavior (DXC-166 QA test).
