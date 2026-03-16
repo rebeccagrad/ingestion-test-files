@@ -13,3 +13,7 @@ This line was added to verify the Playbook updates in place without creating a n
 ## Second Update
 
 Added to trigger a fresh incremental run after env upgrade.
+
+## Published Update Test
+
+Added to verify published Playbook updates correctly via Draft revision.
