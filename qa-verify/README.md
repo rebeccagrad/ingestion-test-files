@@ -1,19 +1,11 @@
-# QA Verification Playbook
+# DXC-202 Test Playbook
 
-This playbook is used to verify in-place update behavior for DXC-166 QA testing.
+This playbook tests the fix for DXC-202: Playbook body should update correctly when README.md changes, even when the Playbook is in draft/non-published state.
 
-## Overview
+## About This Test
 
-A clean playbook with no prior revision history, used to test that content updates from GitHub are applied correctly to non-published and published objects.
+Fresh content to establish a clean baseline. The Playbook will be ingested in draft state with two chapters from the topic files below.
 
-## Update Test
+## What We Are Testing
 
-This line was added to verify the Playbook updates in place without creating a new revision.
-
-## Second Update
-
-Added to trigger a fresh incremental run after env upgrade.
-
-## Published Update Test
-
-Added to verify published Playbook updates correctly via Draft revision.
+When this README body is modified and an incremental ingestion runs, the Playbook body should update without throwing a ValidationException — regardless of whether the Playbook is in draft or published state.
