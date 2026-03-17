@@ -13,3 +13,7 @@ When this README body is modified and an incremental ingestion runs, the Playboo
 ## TC-01 Body Change
 
 This section was added to trigger TC-01 verification. If the DXC-202 fix is working, this text will appear in the Playbook body after incremental ingestion with no ValidationException in the log.
+
+## TC-01 Retest (build609)
+
+Pushed after confirmed build fix. This is the body change that should now update cleanly on the draft Playbook.
