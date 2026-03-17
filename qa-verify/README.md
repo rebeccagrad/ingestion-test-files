@@ -17,3 +17,7 @@ This section was added to trigger TC-01 verification. If the DXC-202 fix is work
 ## TC-01 Retest (build609)
 
 Pushed after confirmed build fix. This is the body change that should now update cleanly on the draft Playbook.
+
+## TC-02 Body Change (published path)
+
+This section was added after the Playbook was published. A draft revision should be created with this text and correct chapter structure — no ValidationException.
