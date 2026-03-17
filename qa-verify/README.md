@@ -10,6 +10,6 @@ Fresh content to establish a clean baseline. The Playbook will be ingested in dr
 
 When this README body is modified and an incremental ingestion runs, the Playbook body should update without throwing a ValidationException — regardless of whether the Playbook is in draft or published state.
 
-## Trigger Commit
+## TC-01 Body Change
 
-Added to force a new incremental run after Playbook deletion.
+This section was added to trigger TC-01 verification. If the DXC-202 fix is working, this text will appear in the Playbook body after incremental ingestion with no ValidationException in the log.
