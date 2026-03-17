@@ -1,5 +1,5 @@
-# Chapter Two
+# Getting Started
 
-This is Chapter Two, added to test DXC-182 file addition behavior.
+This topic is Chapter One of the DXC-202 test Playbook.
 
-It should appear as a new Topic in Brightspot after the next incremental ingestion run.
+It exists to ensure the Playbook has chapter Links, which is what triggers the ValidationException bug when the Playbook is in draft state.
