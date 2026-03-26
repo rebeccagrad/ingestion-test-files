@@ -11,7 +11,7 @@ This playbook is a clean test fixture for verifying GitHub ingestion behavior wh
 
 ## Expected result
 
-After ingestion with the completion action set to Publish:
+After ingestion with the completion action set to Publish (DXC-209 QA run):
 - This Playbook should be live in the CMS
 - All five Topics should be live (not draft)
 - Chapter structure should reflect the folder tree below
